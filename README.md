@@ -1,6 +1,6 @@
 # Academic-Database-Workshop
 
-**Group Members:** [Joshua Samad Trujillo Lagos, Sebastián Ramos, Santiago Sandoval]
+**Group Members:** [Joshua Samad Trujillo Lagos, Sebastián Ramos, Santiago Sandoval, Miguel Moreno]
 
 ## Overview
 This repository contains the solution for the Academic (AD) database workshop. Three tasks are addressed:
